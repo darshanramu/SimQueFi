@@ -1,0 +1,30 @@
+trie implementation
+java trie hang up
+a trie to a patricia trie
+trie data structures - java
+trie building in java
+trie implementation in guava?
+trie longest prefix matching
+recursive word trie traversal
+java trie optimization
+&quot;simple&quot; trie implementation
+build a trie java
+trie permutations not found
+search trie implementation
+levenshtein trie wrong distance
+hash array mapped trie (hamt)
+prefix matching/trie for java?
+lexicographic sorting with a trie
+trie saves space, but how?
+extracting data from a trie
+implement t9 dictionary using trie?
+trie tree crashing in android
+dfs over string trie (prefix)
+inserting ordered characters in trie
+trie vs. suffix tree vs. suffix array
+is there a trie in java?
+looking for a good introduction on trie
+java - deleting word in trie (pseudo code)
+java trie node boolean vs boolean
+implementing a patricia trie in java
+what type of trie is this?

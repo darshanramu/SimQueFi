@@ -1,0 +1,30 @@
+histogram matplotlib
+matplotlib legend markers only once
+matplotlib autoscale
+matplotlib timelines
+matplotlib subscript
+matplotlib pcolor
+invert colormap in matplotlib
+matplotlib python
+matplotlib animation
+python matplotlib
+using matplotlib:
+matplotlib figures
+matplotlib failure
+matplotlib multiprocessing
+unicodedecodeerror matplotlib
+matplotlib graphing
+matplotlib crashes
+matplotlib legend
+matplotlib version
+matplotlib questions
+matplotlib button
+good matplotlib documentation recommendation
+pycharm + matplotlib?
+matplotlib rendering
+gnuplot vs matplotlib
+plot logarithmic axes with matplotlib in python
+saving interactive matplotlib figures
+importerror: matplotlib requires dateutil
+error while installing matplotlib
+matplotlib - label each bin

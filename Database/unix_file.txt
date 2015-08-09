@@ -1,0 +1,29 @@
+run a .jar file using .sh file in unix
+count number of occurences in a file
+get first/second file column
+how can i delete a particular if statement in shell script file and do the same for all files of all folders inside a single folder
+using curl to download file is having issue
+how to get character string out from file in unix
+shell reading ip addresses from file
+using an awk script on multiple rows of a file
+finding unique values in a data file based on two columns
+uncompressing zlib file in command line
+how to spread each field to a line in a file (with awk or cut, maybe?)
+ftp multiple file transfer script issue
+append text at the beginning of lines in a file
+add total line count to end of file bash
+remove comma from a xml element in a file using unix commands
+export filenames to temp file bash
+how to duplicate the lines and replace multiple string in one tab separated file
+using flock() in c unix, which kind of error i receive trying opening file in another process?
+shell script error &quot;no such file or directory &quot;.
+kqueue catch contents-modified of file within
+logging stderr and stdout to log file and handling errors in bash script
+allow opening a file with open() only in one process, in c unix programming
+any good file splitting application on kali linux?
+redirect unix command output into a file in python
+how to get the last time a file was modified in unix
+unix shell script to monitor and copy file changes
+add file extension after adding date to file with awk
+split file in linux error &quot;invalid number of bytes&quot;
+shell script to rename file with string from another filenamem in angularjs - does calling a get route always cause a new connectddion to be established?

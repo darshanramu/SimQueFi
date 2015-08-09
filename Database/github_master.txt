@@ -1,0 +1,30 @@
+push origin master error on new repository
+git/github can&#39;t push to master
+&quot;git pull&quot; or &quot;git merge&quot; between master and development branches
+github master repository changes
+pushing to github master rejected
+merging github gh-pages into master
+change branch into new master github
+head and master denotations using github
+failed to commit in master branch
+difference between head and master
+github - merging fork into master (locally)
+how to revert master branch to upstream
+github merge branch &#39;master&#39;
+git clone a previous version of master build at github
+git push -u origin master error: received http code 0
+github website: pin a non-master branch on the dashboard
+git push and pull origin master not working?
+how to restrict github post-receive webhook to master branch only
+why does forking a repo on github only forks the master branch?
+how to setup github repo so that certain team members can&#39;t write to master branch
+github api v3 to fetch contents of a file from a particular branch other than master
+github pull request from master branch, can i keep working on other branches before it is merged?
+how to use collaboration on github ? so others can put their code without having access to master branch?
+what is &quot;git remote add ...&quot; and &quot;git push origin master&quot;?
+git - revert master branch to a tag
+github rejected master -&gt; master (non-fast-forward)
+rebase branch on master
+! [rejected] master -&gt; master (fetch first)
+switch master repository
+git branch follow master

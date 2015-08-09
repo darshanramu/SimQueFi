@@ -1,0 +1,30 @@
+nibble shifting
+high nibble and low nibble what are they?
+reading top nibble and bottom nibble in a byte
+split biginteger into nibble array
+hex of most significant nibble
+styling nibble forms in php
+pretty print bytestring to hex nibble-wise
+java bit operations: replacing nibble of hex
+shifting a single nibble in java biginteger?
+setting the nibble for an int - java
+nibble hex from java to php
+arduino - nibble to integer function erratic results
+how can you nibble (nybble) bytes in c#?
+fast search and replace some nibble in int [c; microoptimisation]
+fast way to compare a specific nibble in c/c++
+take the last 2 bits of a nibble in c
+uninitialized string offset: 0 while uploading file with nibble forms
+convert ipv6 to nibble format for ptr records
+set 4-bit nibble in an int type
+moving a &quot;nibble&quot; to the left using c
+switching bits in each nibble of an int
+filestream.read(...): will i ever get a nibble rather than byte?
+get lower nibble of a byte and replace hex value
+php decode or parsing each nibble of hexadecimal
+how many bits are there in a nibble?
+how do i interpret a word or nibble as a number in c#?
+setting a nibble of a 32-bit integer to a certain value
+append two integers, each representing a nibble, to a hexadec. number
+what is low nibble and why the result is different by one number
+in case of high nibble first zero should be added first

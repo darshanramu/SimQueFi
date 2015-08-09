@@ -1,0 +1,6 @@
+retrieve least element, elements are dynamically-ordered
+java priorityqueue returning the least element as first
+using scheme to find the least element in a list
+set cover or hitting set; numpy, least element combinations to make up full set
+find the least element in an array, which has a pattern
+c++ how to merge sorted vectors into a sorted vector / pop the least element from all of them?

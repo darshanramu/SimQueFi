@@ -1,0 +1,30 @@
+cache simulator in c
+how to flush cache?
+cache miss &amp; cache hit
+cache simulator
+cache outgoing data from browser
+understanding cpu cache and cache line
+programmatically get the cache line size?
+prefetch to a specific level of cache
+simple cache profiling api
+c optimization: conditional store to avoid dirtying a cache line
+finding cache performance
+matrix transposing cache optimization
+cache issue with mnl_socket_recvfrom
+cache-friendly code
+avoid cache misses
+cache friendly c code
+c cache optimization for direct mapped cache
+how cache memory works?
+measuring cache latencies
+cache management in c
+cache locality performance
+dup() and cache flush
+memory performance/cache puzzle
+aligning to cache line and knowing the cache line size
+measure cache memory usage
+simple cache simulator
+memory to cache mapping
+simplescalar cache lru implementation
+cache memory organization
+efficent cache usage in c

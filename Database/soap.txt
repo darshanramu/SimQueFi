@@ -1,0 +1,30 @@
+how do i correctly pass the string &quot;null&quot; (an employee&#39;s proper surname) to a soap web service from actionscript 3?
+representational state transfer (rest) and simple object access protocol (soap)
+rest / soap endpoints for a wcf service
+how to call soap web service in android
+soap or rest for web services?
+soap vs rest (differences)
+simplest soap example
+how to access soap services from iphone
+soap &lt;faultstring&gt;
+soap authentication
+soap equivilent
+webservices soap
+soap authorization
+soap webservice
+soap implemenattion
+soap webservices
+soap authorization
+soap-env:server
+servicestack soap retrieve soap headers
+soap error application/soap+msbin1
+json or soap (xml)?
+working soap client example
+soap - what&#39;s the point?
+wcf and soap 1.1
+paypal soap and nvp
+extract soap body from a soap message
+soap using c#
+soap server: need to return soap response without soap envelop
+soap over http and soap over jms
+soap sample and my code generated soap

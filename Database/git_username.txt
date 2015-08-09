@@ -1,0 +1,30 @@
+how to provide username and password when run &quot;git clone git@remote.git&quot;?
+git server and username
+remote: fatal: bad username &#39;@&#39;
+git server with username and password authentication
+adding username and password default on git
+pass username password in git pull
+fatal: unable to create temporary file &#39;/home/username/git/myrepo.git/./objects/pack/tmp_pack_xxxxxx&#39;: permission denied
+git push : username , password, how to avoid
+where to find the git remote username in local config?
+implementing git server which uses username and password to authenticate
+gitignore my windows username
+github access denied, username
+why is github asking for username/password when following the instructions on screen and pushing a new repo?
+can i associate ssh username with commit with git over ssh?
+prevent git push against remote repository when username of pusher is not configured
+error in git- fatal: &#39;/users/username/downloads/folder_name&#39; is outside repository
+git asks for username everytime i push
+git clone username problems. warning: remote head refers to nonexistent ref, unable to checkout
+change git username in terminal
+git invalid username or password
+git-cvsserver pserver username propagation
+chef git asks for username
+git forced command conq username
+how can i make git log include the timestamp, username, action, and file name on a single line?
+how to specify the username that ssh should send to the remote system using the git gui
+git submodule url not including username?
+delete username from a git repository
+wrong username during a recursive git clone
+get git username to link to profile
+having trouble with [username].github.io

@@ -1,0 +1,30 @@
+where to start when programming opengl
+how to start opengl in software emulation mode?
+opengl when can i start issuing commands again
+how to know whether particular extension was promoted to a core profile, was made a core extension from the start or removed as a legacy extension?
+sdl with opengl start
+unable to start /debug open gl in visual c++
+how to start xcode4 opengl project for mac
+unhandled exception at 0x0292d09f (ig4dev32.dll) in start dock.exe: 0xc0000005: access violation reading location 0x00000000
+visual studio 2010 error &quot;the application unable to start correcly (0xc000007b) for opengl
+unable to start genymotion virtual device. unable to initialize opengl renderer library. check if the video card support opengl 2.0
+how to start writing a music visualizer in c++?
+opengl program doesn&#39;t start in qt creator
+opengl app crashes immediately on start up
+opengl version to start with (as of late 2014)
+implement a 3d paint application: how to start?
+visualstudio2010 opengl project crashes with 0x000007b right on start
+how to start building cooliris in opengl and c++?
+i&#39;d like to begin learning game programming, where to start?
+3d max integration with c++, cal3d where to start?
+how to start my program with the discrete display card?
+where should i start multiplayer programming in java + opengl (lan)
+my android emulator cannot start. error in load opengl lib
+from a maya scene to a webgl animation, where to start?
+is it better to skip opengl 2.x and start learning opengl 3.x?
+what might cause opengl to behave differently under the &quot;start debugging&quot; versus &quot;start without debugging&quot; options?
+how to start developing with opengl and c++, what tools do i need to install on windows
+i want to use openstreetmap data to render roads in opengl, where should i start?
+i want to make a simple 3d game using opengl, where should i start?
+should i use some kind of engine or start from scratch?
+how can i start a new glutmainloop() after exiting one in opengl with perl?

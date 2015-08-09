@@ -1,0 +1,5 @@
+jquery hover for the lowest element layer
+mongodb: finding lowest element in embedded array
+lowest element in array is always zero
+trouble finding highest/lowest element in array c++
+search and remove / kth lowest element / distance matrix

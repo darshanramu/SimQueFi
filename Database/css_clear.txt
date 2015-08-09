@@ -1,0 +1,30 @@
+what does the css rule clear: both do?
+clear float issue
+clear an inline-block
+clear properties from stylesheets
+css float, clear problem
+why clear does not clear?
+css on wrap clear all
+in css margin-top is not working with clear: both
+how to clear floats properly
+having trouble with clear: both:
+clear icon inside input text
+weird float clear issue
+how to use :after to clear floats
+problem with clear: right;
+does overflow:hidden do clear:
+clear as line break
+what&#39;s the problem with css br clear?
+br clear=&quot;all&quot; vs css solution
+css clear float
+clear: right with &lt;span&gt;
+clear inherited :before css
+input float won&#39;t clear
+css float/clear puzzle (competing floats)
+clear a different div
+border a div with clear cuts
+css - nested div : clear sub styles
+css float and clear
+clear floats not working
+every 4 image clear
+what is the best way to clear the css style &quot;float&quot;?

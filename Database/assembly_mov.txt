@@ -1,0 +1,58 @@
+achieve c casting using x86 mov instructions
+x64 mov 32-bit immediate to 64-bit register
+is it ok to spend a spurious mov eax, esi?
+trouble in dosbox: [ mov si, (160 * height)]?
+what is the real usage of mov opcode
+mov ah,01h int16h, how to use it to change the direction of the snake
+what does &quot;mov offset(%rip), %rax&quot; do?
+assembly mov instruction
+db, mov, string literals
+assembly - mov unitialized variable?
+why does mov data, data reset the destination register?
+nasm mac osx bus error on a mov
+mov dword ptr [a],5 how do i know the address of variable &#39;a&#39;?
+addressing issue with mov instruction in x86
+c++ asm get address of mov
+what is the difference between mov ebx, esi and lea ebx, [esi]
+mov and add operand in assembler code?
+semantics of mov widths in x64 and sse
+nasm mov from register to memory
+mov from memory to register bug is killing me. solved
+what does this expression evaluates to: mov eax, [(ebp + 8) + [ebp - 25]]
+assembly: rep mov mechanism
+the why of mov command restrictions
+dos assembler: mov ah, 09h and int 21h combination doesn&#39;t print anything
+lea &amp; mov instruction comparision
+tasm program freezes after mov
+why do i get access violation at mov [edx], al?
+what does mov eax,dword ptr ds:[esi+ebp*8] do?
+x86 mov / add instructions &amp; memory addressing
+masm assembly move 8 bit register to the 16 bit register (ie. mov cx, ch)
+achieve c casting using x86 mov instructions
+x64 mov 32-bit immediate to 64-bit register
+is it ok to spend a spurious mov eax, esi?
+trouble in dosbox: [ mov si, (160 * height)]?
+what is the real usage of mov opcode
+mov ah,01h int16h, how to use it to change the direction of the snake
+what does &quot;mov offset(%rip), %rax&quot; do?
+assembly mov instruction
+db, mov, string literals
+assembly - mov unitialized variable?
+why does mov data, data reset the destination register?
+nasm mac osx bus error on a mov
+mov dword ptr [a],5 how do i know the address of variable &#39;a&#39;?
+addressing issue with mov instruction in x86
+c++ asm get address of mov
+what is the difference between mov ebx, esi and lea ebx, [esi]
+mov and add operand in assembler code?
+semantics of mov widths in x64 and sse
+nasm mov from register to memory
+mov from memory to register bug is killing me. solved
+what does this expression evaluates to: mov eax, [(ebp + 8) + [ebp - 25]]
+assembly: rep mov mechanism
+the why of mov command restrictions
+dos assembler: mov ah, 09h and int 21h combination doesn&#39;t print anything
+lea &amp; mov instruction comparision
+tasm program freezes after mov
+why do i get access violation at mov [edx], al?
+what does mov eax,dword ptr ds:[esi+ebp*8] do?

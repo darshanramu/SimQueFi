@@ -1,0 +1,30 @@
+how do i reset iis programmatically?
+does iis keep track of when last it was reset
+how to:: notify user iis application pool recycle or iis reset?
+reset iis remotely
+application pool deleted after iis reset
+distributed session reset
+iis - reset ssl session programmatically
+ajax call reset session iis
+user.identity.isautenticated getting reset to false
+how to check reset session
+why does filesystemwatcher reset our website sessions?
+signalr self host connection reset
+iis 7.5 does not reset
+be notified of an iis reset?
+reset iis after cpu usage hit 100
+reset my w3wp process in different time
+what is reason for doing iis reset?
+how can i know if and when iis was reset in the past?
+the setting disallowoverlappingrotation / disable overlapped recycle is used when iis reset?
+err_connection_reset: the connection was reset when uploading a large file
+does having the iis log header in the log file mean that iis was reset during the day?
+iis reset itself make request to crash
+what can cause an iis application to reset?
+strange error with wif rtm, occurs after reset iis
+changes in ascx / aspx files - will it reset application
+iis handler returning &quot;the connection was reset&quot; error
+how do i reset iis remotely using c#.net code?
+need to reset iis when ie is closed accidentally
+[sqlserver jdbc driver]connection reset by peer: socket write error
+reset iis on asp.net site when an error occurres

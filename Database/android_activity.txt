@@ -1,0 +1,30 @@
+android - crashlytics doesn&#39;t log errors app wide, only activity it was initialized in
+android activityrecognitionapi - not returning detected activity
+android how to get /raw folder in widgetprivider onupdate method (no activity)?
+activity doesn&#39;t work after starting background download service
+cannot locate material and model after resume activity
+trying to handle event triggered by service in the activity
+yet another notification not starting an activity
+start activity from options menu, hence - back button exits
+android activity with calendar which method it&#39;s better?
+prevent activity from reloading content upon orientation change
+can&#39;t go to the next activity with an intent
+retrofit request callback method never call if activity stopped
+can an android activity be resumed after finish()?
+oncreateoptionsmenu not called when starting new activity
+how to use an actionbar with an expandablelistview in the same activity
+drag an imageview horizontally to go to another activity
+how to animate floating action button using android activity transition?
+start an activity and keep tabhost
+appwidget with collection - can`t run config activity when clicking on widget
+android- how to update data on another activity. outside the one you&#39;re working on
+how to send an object from activity to fragment?
+notify cursoradapter in fragment from asyntask in activity
+i am using the image loader class to download images . i want to show the image in next activity
+how to turn on and unlock android screen? and the activity must be finished
+how to callback to activity from non-activity class
+error while calling a fragment in main activity
+error saying the launcher activity is not found
+launcher activity not found
+perform a button click when activity opens
+java.lang.runtimeexception: unable to start activity componentinfo

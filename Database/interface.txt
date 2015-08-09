@@ -1,0 +1,30 @@
+interface vs base class
+proper use of the idisposable interface
+interface vs abstract class (general oo)
+what is the difference between an interface and abstract class?
+how do you declare an interface in c++?
+interface defining a constructor signature?
+interface naming in java
+mongo interface
+getting all types that implement an interface
+what does it mean to &quot;program to an interface&quot;?
+java abstract interface
+test if object implements interface
+interface inheriting interface
+why doesn&#39;t c# allow static methods to implement an interface?
+generic interface
+can a c# anonymous class implement an interface?
+idisposable interface
+does javascript have the interface type (such as java&#39;s &#39;interface&#39;)?
+interface versioning
+interface inheritance
+constructor in an interface?
+embedded interface
+indexable interface
+interface insanity
+interface vtable
+defining interface
+interface instances
+iisexpress user interface
+interface class
+difference between abstract class and interface in python

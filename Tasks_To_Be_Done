@@ -1,0 +1,5 @@
+a) Fetch the data from Stack overflow
+b) Evaluate the K means clustering algorithms
+ 1) Euclidean distances 
+ 2) Cosine similarity
+c) Remove the stop words for the questions

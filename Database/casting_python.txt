@@ -1,0 +1,30 @@
+dynamic type casting in python
+python assignment shorthand for *casting*
+python casting int(&quot;string&quot;, integer)
+casting raw strings python
+safe casting in python
+casting pycfunctionwithkeywords in pymethoddef
+casting to ctypes.wintypes
+casting sockets to subtypes
+casting in python
+python - casting error
+type casting in python
+pandas to_datetime casting issue
+variable casting in tornado
+casting vs. coercion in python
+python: casting to upper and finding string
+casting objects in django model
+type casting error with numpy.take
+typing casting in python question
+casting float to int results in incorrect value
+pygame: assistance with ray casting
+boost.python polymorhpism. down casting issue
+type casting in python 2.7
+python sort list of lists with casting
+casting a custom class to a dict in python
+casting ints to str in jinja2
+numpy array casting ruled not &#39;safe&#39;
+casting to other class in python
+casting regex arguments into a list
+back-casting a ctypes.py_object in a callback
+is multiple type-casting in python bad?

@@ -1,0 +1,30 @@
+how can i remove a commit on github?
+link to github issue number with commit message?
+github windows: commit failed: failed to create a new commit
+make the current commit the only (initial) commit in a git repository?
+how can i rollback a github repository to a specific commit?
+github commit history navigation
+github commit changes remotely
+git does not commit
+connect an issue with a commit after the commit
+gitignore after commit
+how to commit in github?
+github - change misspelled commit message
+send a pull request on github for only latest commit
+github fork a repo from previous commit
+how to search for a commit message in github?
+assign git commit to github issue manually
+commit pdf file to github in eclipse
+&quot;this commit is missing author information&quot;
+navigating to the earliest commit in github
+rbt post pre-commit throwing error message
+failed to commit in master branch
+github commit shows wrong account as author
+go back to previous git commit
+git: how to read last commit comment?
+commit did not match any file(s) known to git
+github: how to view a specific commit on network graph
+how to code commit on github using mingw32?
+how do i remove a completely failed commit?
+how to download a single commit-diff from github
+clone drupal sandbox project into github account with commit history

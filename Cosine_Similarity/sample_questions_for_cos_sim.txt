@@ -1,0 +1,8 @@
+Find the least value in an array
+Find the minimum element in the array
+Find the maximum value in an array
+Find the smallest element in the array
+Find the largest element in the linked list
+How to find the max of an array
+How to find the min of an array
+How to find sum of two elements

@@ -1,0 +1,30 @@
+unity register two interfaces as one singleton
+can a unity container pass a reference of itself as a constructor parameter?
+microsoft.practices.unity.resolutionfailedexception
+resolvedparameter in unity. can somebody explain to when to use it?
+unity.buildup unable to disambiguate
+unity [dependency] attribute doesn&#39;t resolve
+why does unity&#39;s registerinstance&lt;...&gt; cause unity to return multiple instances?
+which one to use: unity interception or policy injection
+unitycontainer() loadconfiguration not found
+why unity needs assembly references
+unity - use concrete type depending on user choice
+unity 2 - why has the buildup method changed?
+xml config to initialize simple string in unity
+resolution of the dependency failed, type, currently composing another batch
+unity dependancy injection passing runtime parameter values to a constructor?
+unity index out of bounds exception
+unity cant resolve extension type name in configuration file
+unity container injectionconstructor - cannot convert lambda expression to type &#39;object[]&#39; because it is not a delegate type
+how to intercept the call to the matched method?
+what corresponds to the unity &#39;registration name&#39; in the unity configuration section?
+registry equivalent in unity
+microsoft unity - is it possible to change the registered type at runtime?
+configuring unity using a file other than web.config or app.config?
+not able to install unity in vs2010
+resolve may fail depending on order of registerinstance and registertype
+registering cascading dependencies (take 2)
+unity: no parameterless constructor defined for this object
+how to configure single unity container for multiple project&#39;s within an application?
+unity 2.0. how to throw resolutionfailedexception
+unity container resolved instances post processing

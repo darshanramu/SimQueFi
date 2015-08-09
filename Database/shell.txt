@@ -1,0 +1,30 @@
+check if a directory exists in a shell script
+in the shell, what is &quot; 2&gt;&amp;1 &quot;?
+calling shell commands from ruby
+converting string to lower case in bash shell scripting
+shell command to sum integers, one per line?
+how to use ssh to run shell script on a remote machine?
+how do i prompt for input in a linux shell script?
+bash shell script check input argument
+pretty print in mongodb shell as default
+is powershell ready to replace my cygwin shell on windows?
+why doesn&#39;t &quot;cd&quot; work in a bash shell script?
+in a shell script: echo shell commands as they are executed
+asynchronous shell exec in php
+how to call shell script from another shell script?
+javascript shell?
+python 3 online interpreter / shell
+propagate all arguments in a bash shell script
+shell # inside (( ))
+shell questions
+shell wildcards
+shell &gt;&amp; operator?
+ipython ? shell
+sublimerepl shell
+shell scripting
+shell command to tar directory excluding certain files/folders
+get program execution time in the shell
+why (shell + nop) != (nop + shell)?
+shell programming (shell command usage)
+shell scripting python shell imports
+login shell and interactive shell?
